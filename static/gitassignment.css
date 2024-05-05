@@ -3,7 +3,7 @@ body {
 }
 
 h1, h2 {
-    color: navy;
+    color: rgb(124, 128, 0);
 }
 
 #addBook, #bookList, #allbooks, #searchByYear {
@@ -15,6 +15,6 @@ h1, h2 {
 
 input[type="text"] {
     margin: 10px 0;
-    padding: 8px;
+    padding: 20px;
     width: 200px;
 }
